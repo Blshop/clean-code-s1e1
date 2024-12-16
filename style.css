@@ -44,7 +44,8 @@ body {
 h3 {
   list-style: none;
 }
-input,
+.task,
+.task-check,
 .add,
 .edit,
 .delete{
