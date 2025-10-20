@@ -40,7 +40,8 @@ body {
   margin: 0;
   padding: 0px;
 }
-.task-wrapper, h3 {
+.task-wrapper,
+h3 {
   list-style: none;
 }
 .task,
